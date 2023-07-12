@@ -14,10 +14,14 @@ Com relação ao método de Poisson ele é bom! Talvez funcione melhor para aná
 Bom o melhor resultado que obtive foi quando usei dados que encontrei no Kaggle, com jogos da EuroCopa, Finalíssima e Amistosos, aí sim foi possível chegar em bons resultados, e talvez a final que eu espero nessa copa!! 
 
 A Larissa, porque você não usou IA? Tá todo mundo usando! É de fato a IA vem sendo muito utilizada nos últimos tempos, mas é agora que entra um ponto onde a análise humana é muito melhor do que qualquer método ou máquina, até mesmo a IA iria colocar EUA em primeiro. Mas se formos analisar o boom que o futebol feminino teve nos últimos anos, iremos perceber alguns pontos:
-	-> EUA reformulou seu time, vem para a copa com muitas caras novas, além de não tem algumas jogadoras importantes por conta de lesão (Christen Press, Tobin Heath e Mallory Pugh)
-	-> A Inglaterra se tornou uma potência europeia entre 2019-2023 após a Sarina Wiegman assumir o time, diria uma das melhores técnicas do mundo, mas a seleção também enfrenta problemas por conta de lesão, grandes estrelas como Leah Williamson, Beth Mead e Fran Kirby estão de fora dessa copa!!
-	-> A Espanha poderia ser uma das minhas candidatas a ser campeã, por conta do que Aitana Bonmatí e Alexia Putellas vem jogando, mas a seleção enfrentou muitos problemas com relação ao técnico e algumas jogadoras importantes como Mapi e Patri preferiram o protestar ao invés de participar dessa Copa(o que está totalmente correto).
-	-> Brasilllll, meu país, vem surpreendendo a todos nesses últimos tempos, ainda mais com a entrada da técnica Pia Sundhage, no final da Copa de 2019 o brasil não tinha um meio de campo, não existia nem calendário para os campeonatos nacionais, mas quando essa mulher assume a seleção, as coisas começam a mudar, em uma reformulação podemos ver caras novas e um time mais bem estruturado, além da ascensão de grandes atletas no futebol internacional como Geyse, Kerolin e Rafaelle!
+   
+   -> EUA reformulou seu time, vem para a copa com muitas caras novas, além de não tem algumas jogadoras importantes por conta de lesão (Christen Press, Tobin Heath e Mallory Pugh)
+	
+   -> A Inglaterra se tornou uma potência europeia entre 2019-2023 após a Sarina Wiegman assumir o time, diria uma das melhores técnicas do mundo, mas a seleção também enfrenta problemas por conta de lesão, grandes estrelas como Leah Williamson, Beth Mead e Fran Kirby estão de fora dessa copa!!
+	
+   -> A Espanha poderia ser uma das minhas candidatas a ser campeã, por conta do que Aitana Bonmatí e Alexia Putellas vem jogando, mas a seleção enfrentou muitos problemas com relação ao técnico e algumas jogadoras importantes como Mapi e Patri preferiram o protestar ao invés de participar dessa Copa(o que está totalmente correto).
+
+   -> Brasilllll, meu país, vem surpreendendo a todos nesses últimos tempos, ainda mais com a entrada da técnica Pia Sundhage, no final da Copa de 2019 o brasil não tinha um meio de campo, não existia nem calendário para os campeonatos nacionais, mas quando essa mulher assume a seleção, as coisas começam a mudar, em uma reformulação podemos ver caras novas e um time mais bem estruturado, além da ascensão de grandes atletas no futebol internacional como Geyse, Kerolin e Rafaelle!
 
 Bom, eu poderia fazer várias análises aqui das possíveis equipes que podem chegar em uma final de copa do mundo ou seleções que vão surpreender na Copa, mas oq eu quero aqui é só incentivar as pessoas a acompanhar o futebol feminino, espero ter feito isso com vocês!!
 
