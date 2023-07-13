@@ -1,5 +1,7 @@
 # FIFA Women's World Cup Predict
 
+This repository is still in progress!!
+
 Olá! Essa sou eu, Larissa!! Tentando fazer algo diferente nas minhas férias da faculdade!
 
 Antes de começar a explicar os resultados, vou explicar o que me motivou a fazer isso, desde que nasci sempre assisti futebol, chego a dizer que não tive a opção de escolher um time de futebol!! Mas só fui assistir as mulheres jogando na televisão quando eu tinha 9 anos, era a Copa do Mundo Feminina na Alemanha, mas nunca me esqueço desse momento e meu pai falando o quanto a Marta era uma das melhores jogadoras do mundo!!
