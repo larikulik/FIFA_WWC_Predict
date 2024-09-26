@@ -1,6 +1,7 @@
 # Crazy WWC Predict 
-
-<img src="https://tenor.com/pt-BR/view/fcbfemeni-barcelona-barça-femeni-nuria-rabano-alexia-putellas-gif-9671011170592243328">
+<p align="center">
+  <img src="https://github.com/larikulik/FIFA_WWC_Predict/blob/main/alexia-putellas-alexia.gif" alt="centered image">
+</p>
 
 Hello!! My name is Larissa, and I am trying to do something different during my college vacation.
 
@@ -38,5 +39,6 @@ Lari, why don’t you use IA? Everyone is using it! Yes, IA has been used a lot 
 
 Well, I could talk about soccer all day long, making different analyses every day, but my goal here is to encourage people to watch women’s soccer. I hope I achieved that in you guys! 
 
-
-
+# Autor
+| [<img loading="lazy" src="https://github.com/larikulik.png" width=115><br>Larissa Wierzynski Kulik](https://github.com/larikulik) |
+| :---: |
